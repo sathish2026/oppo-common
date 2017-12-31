@@ -42,7 +42,7 @@ import android.preference.PreferenceScreen;
 import android.text.TextUtils;
 import android.view.MenuItem;
 
-import org.lineageos.internal.util.ScreenType;
+import com.android.internal.util.cm.ScreenType;
 import org.lineageos.settings.device.utils.Constants;
 
 import java.util.ArrayList;
